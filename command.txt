@@ -1,0 +1,10 @@
+configure terminal
+hostname cisco
+end
+wr
+
+
+
+
+
+
